@@ -1,0 +1,11 @@
+SubGrp_id,SubGrp_Name,Monthly_Premium
+S101,Deficiency Diseases,3000
+S102,Accident,1000
+S103,Physiology,2000
+S104,Therapy,1500
+S105,Allergies,2300
+S106,Self inflicted,1200
+S107,Cancer,3200
+S108,Infectious disease,1500
+S109,Hereditary,2000
+S110,Viral,1000
